@@ -1,0 +1,75 @@
+body{
+    margin-top: 10%;
+   
+   
+    font-family: 'Open Sans', sans-serif;
+    overflow-x:hidden;
+
+}
+.texts {
+    color: white;
+    background-color:#0e1717;
+    font-size: 20px;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+   
+  }
+
+form {
+    text-align: center;
+    margin-top: 50px;
+}
+.container {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.matrix_input {
+
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 0px;
+    margin: 1px;
+    display: inline-block;
+}
+.form_input {
+    visibility: hidden;
+
+}
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    
+}
+#sum_input {
+    margin: 20px 0px 0px 0px;
+    border: 2px solid black;
+
+}
+#mInput1 {
+    margin: 20px;
+}
+#first_input{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#second_input{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+
+
+
